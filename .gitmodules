@@ -1,8 +1,8 @@
+[submodule "VotePeace-Backend"]
+	path = VotePeace-Backend
+	url = https://github.com/MDF05/VotePeace-Backend.git
+
 [submodule "VotePeace-Frontend"]
 	path = VotePeace-Frontend
 	url = https://github.com/MDF05/VotePeace-Frontend.git
 
-
-[submodule "VotePeace-Backend"]
-	path = VotePeace-Backend
-	url = https://github.com/MDF05/VotePeace-Backend.git
